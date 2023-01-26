@@ -6,5 +6,6 @@ $hello= new Main();
 
 $hello->hola();
 
+echo 'hola mundo'
 
 ?>
